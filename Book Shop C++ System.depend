@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706260236 source:c:\users\dell\desktop\book shop c++ system\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+
